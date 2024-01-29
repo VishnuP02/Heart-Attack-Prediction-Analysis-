@@ -1,1 +1,3 @@
-# Heart-Attack-Prediction-Analysis-
+Heart disease, a collective term for ailments impacting the heart and circulatory system, is a global health concern and a leading cause of disability. Given the heart's pivotal role in bodily functions, diseases affecting it can have far-reaching consequences on other organs and physiological processes. Various forms of heart disease exist, including those causing coronary artery narrowing, valve malfunctions, heart enlargement, and more, often leading to heart failure and heart attacks.
+
+This dataset, specifically tailored to heart disease, provides a valuable resource for extracting insights that illuminate the significance of each feature and their interrelationships. In this analysis, our primary objective is to ascertain the probability of an individual being susceptible to a severe heart problem.
